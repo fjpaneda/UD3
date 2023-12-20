@@ -1,0 +1,45 @@
+header{
+    display: flex;
+}
+
+#logotipo{
+    max-width: 150px;
+    max-height: 150px;
+}
+
+.iconos_header{
+    justify-content: right;
+    align-items: center;
+    max-width: 40px;
+    max-height: 40px;
+}
+
+.foto_android{
+    max-width: 300px;
+    max-height: 300px;
+}
+
+.boton{
+    background-color: #586070;
+    color: white;
+    padding: 15px 25px;
+    text-decoration:none;
+    border-radius: 20px;
+}
+
+.boton:hover{
+    background-color: #9c9fa4;
+}
+
+#tienda{
+    max-width: 50%;
+    max-height: 50%;
+}
+
+.iconos_footer{
+    max-width: 20px;
+    max-height: 20px;
+}
+.texto_footer{
+    font-size: 14px;
+}
